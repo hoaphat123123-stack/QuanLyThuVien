@@ -1,8 +1,8 @@
 import java.util.List;
 
 public class Book {
+    private String title = "Sach tren nhanh FEATURE";
     private String id;
-    private String title;
 
     public Book(String id, String title) {
         this.id = id;
